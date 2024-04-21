@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hi%20there!&fontSize=70&fontAlign=80&descAlign=20)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there!&fontSize=70&fontAlign=80&descAlign=20)
 
 
 # 안녕하세요! 백엔드 개발자 오초록입니다.😄
