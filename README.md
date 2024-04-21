@@ -29,7 +29,7 @@
 <img src="https://img.shields.io/badge/postgresql-4169E1?style=flat-square&logo=postgresql&logoColor=white">
 <img src="https://img.shields.io/badge/Obsidian-%23483699.svg?style=flat-square&logo=obsidian&logoColor=white">
 </div>
-
+<br>
 <div style="display: flex; flex-wrap: wrap;">
 <img src="https://img.shields.io/badge/eclipseide-2C2255?style=flat-square&logo=eclipseide&logoColor=white">
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white">
