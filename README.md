@@ -10,7 +10,7 @@
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&random=false&width=435&lines=%F0%9F%9B%A0%EF%B8%8F+Skills+%F0%9F%9B%A0%EF%B8%8F)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&random=false&width=435&lines=%F0%9F%9B%A0%EF%B8%8F+Tech%20Stacks+%F0%9F%9B%A0%EF%B8%8F)](https://git.io/typing-svg) 
 <div style="display: flex; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/JAVA-3766AB?style=flat-square&logo=java&logoColor=black">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
@@ -59,6 +59,6 @@
 <br>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chorok5&langs_count=5&layout=compact)](https://github.com/chorok5/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chorok5&langs_count=5&layout=compact&theme=ambient_gradient)](https://github.com/chorok5/github-readme-stats)
 
 
