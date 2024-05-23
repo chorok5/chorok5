@@ -60,6 +60,3 @@
 <br>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chorok5&langs_count=5&layout=compact&theme=ambient_gradient&hide=css)](https://github.com/chorok5/github-readme-stats)
-
-
