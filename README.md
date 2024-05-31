@@ -5,9 +5,9 @@
 ## 안녕하세요! <br><br> 신입 백엔드 개발자 오초록입니다.😄
 ---
 
-- 🌱 I'm currently learning Back-end skills. 
-- 🙋🏻‍♀️ I'm mostly interested in web development.
-- 🐣 I'm a budding programmer just starting out on my journey.
+🌱 I'm currently learning Back-end skills. <br>
+🙋🏻‍♀️ I'm mostly interested in web development. <br>
+🐣 I'm a budding programmer just starting out on my journey. <br>
 
 ---
 
